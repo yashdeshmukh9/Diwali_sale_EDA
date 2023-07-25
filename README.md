@@ -22,6 +22,13 @@ Marketing Analysis: Investigated the effectiveness of marketing campaigns and pr
 
 Sales Performance: Analyzed sales performance based on different regions or customer segments.
 
+<img src="Screenshots\Screenshot 2023-07-25 125148.png"><br>
+<img src="Screenshots\Screenshot 2023-07-25 125035.png"><br>
+<img src="Screenshots\Screenshot 2023-07-25 125049.png"><br>
+<img src="Screenshots\Screenshot 2023-07-25 125105.png"><br>
+<img src="Screenshots\Screenshot 2023-07-25 125126.png">
+
+
 Insights and Recommendations: Summarized the key findings and provided actionable insights and recommendations based on the analysis.</p><br>
 <p><h1>Conclusion</h1>
 The EDA on the Diwali Sale dataset provides valuable insights into customer behavior, popular products, and sales trends during the festive season. These findings can help businesses optimize their marketing strategies, stock management, and overall sales performance during future Diwali sales.</p>
